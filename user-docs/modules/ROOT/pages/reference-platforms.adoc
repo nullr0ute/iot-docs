@@ -27,6 +27,8 @@ The currently tested reference devices are as follows:
 | image::hummingboard-pulse.png[,200,200,caption="",title="Solid Run HummingBoard-M (i.MX8 based)"]
 | image::ROCKPro64-SBC-3.jpg[,190,200,caption="",title="Pine64 Rockpro64 and Rock64"]
 | image::PINEA64_LTS_board_front.jpg[,300,200,caption="",title="Pine64 A64-LTS and SoPine"]
+
+| image::som-kv260-3.png[,200,200,caption="",title="AMD Xilinx Kria SoMs and Starter Kits"]
 |===
 
 == x86_64 architecture
